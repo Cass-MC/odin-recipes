@@ -1,0 +1,1 @@
+Refreshing my HTML knowledge, getting used to VSCode, and learning how to commit properly (hopefully)
