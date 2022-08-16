@@ -1,0 +1,19 @@
+body {
+    font-family: 'Georgia', serif;
+    text-align: center;
+    background-image: url('https://thumbs.dreamstime.com/b/seamless-cork-texture-perfect-background-corkboard-bulletin-board-underlay-floor-79525296.jpg');
+}
+
+h1 {
+    background-color: white;
+    width: 30%;
+    margin: 20px auto;
+    border-radius: 25px;
+}
+
+ul, ol, .descr {
+    background-color: white;
+    margin: auto;
+    width: 40%;
+    padding: 20px;
+}
